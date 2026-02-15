@@ -114,8 +114,8 @@ CRISP-DM is well-suited for this project because it:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    SQL Server Database                       │
-│                  (AdventureWorksDW2019)                      │
+│                    SQL Server Database                      │
+│                  (AdventureWorksDW2019)                     │
 │  ┌───────────────┐  ┌────────────────────────────────────┐  │
 │  │  Fact Tables  │  │      Dimension Tables              │  │
 │  │  - Internet   │  │  - DimCustomer                     │  │
@@ -129,15 +129,15 @@ CRISP-DM is well-suited for this project because it:
 └─────────────────────────────────────────────────────────────┘
                             ↓
 ┌─────────────────────────────────────────────────────────────┐
-│        SQL Server Analysis Services (SSAS)                   │
-│                  Visual Studio Project                       │
+│        SQL Server Analysis Services (SSAS)                  │
+│                  Visual Studio Project                      │
 │  ┌─────────────────────────────────────────────────────┐    │
 │  │        OLAP Cube: Adventure Works DW2019            │    │
-│  │                                                      │    │
+│  │                                                     │    │
 │  │  Measure Groups:                                    │    │
 │  │  - FactInternetSales                                │    │
 │  │  - FactResellerSales                                │    │
-│  │                                                      │    │
+│  │                                                     │    │
 │  │  Calculated Measures (MDX):                         │    │
 │  │  - Total Sales Amount                               │    │
 │  │  - Total Cost of Products                           │    │
@@ -150,8 +150,8 @@ CRISP-DM is well-suited for this project because it:
 └─────────────────────────────────────────────────────────────┘
                             ↓
 ┌─────────────────────────────────────────────────────────────┐
-│                    Power BI Desktop                          │
-│              Interactive Dashboards & Reports                │
+│                    Power BI Desktop                         │
+│              Interactive Dashboards & Reports               │
 │  ┌─────────────────────┐  ┌──────────────────────────┐      │
 │  │ Overall Market      │  │ Financial Performance    │      │
 │  │ Analysis Report     │  │ Report                   │      │
