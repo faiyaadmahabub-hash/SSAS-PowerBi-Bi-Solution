@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+
+# SSAS specific
+*.deploymenttargets
+*.deploymentoptions
+
+# Power BI
+*.pbix.tmp
+
+# Database files
+*.bak
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*~
+*.cache
