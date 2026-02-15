@@ -18,8 +18,6 @@ A comprehensive Business Intelligence solution developed for AdventureWorks bicy
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Technologies Used](#technologies-used)
-- [Author](#author)
-
 ---
 
 ## Project Overview
@@ -31,12 +29,6 @@ The system enables stakeholders to:
 - Track key performance indicators (KPIs) in real-time
 - Identify market opportunities and risks
 - Make data-driven decisions for global expansion
-
-**Course**: CT122-3-2-BIS - Business Intelligence System
-**Institution**: Asia Pacific University (APU)
-**Cohort**: APU2F2411CS(DA)
-**Submission Date**: July 25, 2025
-
 ---
 
 ## Company Profile
@@ -80,7 +72,7 @@ This project follows the **CRISP-DM (Cross-Industry Standard Process for Data Mi
 #### 1. Business Understanding
 - **Goal**: Expand market presence from 55% US dominance to global reach
 - **Focus**: Optimize performance between reseller and e-commerce channels
-- **Objective**: Gain holistic view of sales performance, market trends, and customer preferences
+- **Objective**: Gain a holistic view of sales performance, market trends, and customer preferences
 
 #### 2. Data Understanding
 - Data source: AdventureWorksDW2019 database in SQL Server
@@ -111,7 +103,7 @@ This project follows the **CRISP-DM (Cross-Industry Standard Process for Data Mi
 
 ### Justification for CRISP-DM
 CRISP-DM is well-suited for this project because it:
-- Starts with clear business understanding
+- Starts with a clear business understanding
 - Supports iterative feedback loops
 - Maintains focus on business goals
 - Delivers reliable and actionable insights
@@ -386,7 +378,7 @@ All calculations are implemented using MDX (Multidimensional Expressions) in the
 ### 3. Global Sales Distribution
 **Key Findings**:
 - **Top Markets**: USA (RM 89.84M), Australia (RM 89.51M), UK (RM 83.84M)
-- **Market Share**: 55% concentrated in United States
+- **Market Share**: 55% concentrated in the United States
 - **GPM Leaders**: USA (4.87%), Australia (4.64%)
 - **Concerns**: Unknown segment (RM 80.45M) with low GPM (0.58%)
 
@@ -395,7 +387,7 @@ All calculations are implemented using MDX (Multidimensional Expressions) in the
 - **Star Performer**: Southwest region (11.43K → 10.49M from 2020-2023)
 - **Consistent Growth**: Canada (3.65M → 6.77M)
 - **Critical Issue**: Sharp 99.6% revenue decline in 2024 across all territories
-- **Growth Rate**: Northwest increased 132% from 2020-2023
+- **Growth Rate**: Northwest increased 132% from 2020 to 2023
 
 ### 5. Customer Demographics
 **Key Findings**:
@@ -667,25 +659,6 @@ The Power BI file contains two main report pages:
 
 ---
 
-## Author
-
-**Faiyad Mahabub Tasin**
-TP Number: TP077983
-Cohort: APU2F2411CS(DA)
-Course: CT122-3-2-BIS - Business Intelligence System
-Institution: Asia Pacific University of Technology & Innovation (APU)
-Lecturer: TS. Mohammad Namazee Bin Mohd Nizam
-
----
-
-## Project Timeline
-
-- **Hand Out Date**: May 2, 2025
-- **Submission Date**: July 25, 2025
-- **Project Duration**: ~3 months
-
----
-
 ## References
 
 1. Chumbar, S. (2023, September 24). The CRISP-DM Process: A Comprehensive guide. Medium. https://medium.com/@shawn.chumbar/the-crisp-dm-process-a-comprehensive-guide-4d893aecb151
@@ -707,17 +680,7 @@ This project is an academic assignment submitted for educational purposes at Asi
 ## Acknowledgments
 
 - **AdventureWorks Sample Database** - Microsoft Corporation
-- **Course Instructor** - TS. Mohammad Namazee Bin Mohd Nizam
 - **Asia Pacific University** - For providing the learning platform and resources
-
----
-
-## Contact & Support
-
-For questions or clarifications about this project, please contact:
-- **Student**: Faiyad Mahabub Tasin (TP077983)
-- **Course**: CT122-3-2-BIS
-- **Institution**: Asia Pacific University
 
 ---
 
